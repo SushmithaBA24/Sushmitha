@@ -12,6 +12,7 @@ flights - Detailed flight information including flight number, departure and arr
 aircrafts - Information about aircrafts including aircraft code and model.
 airports - Information about airports including airport code and timezone.
 seats - Details about seat availability and fare conditions on various aircraft.
-Database ER Diagram :
-[image](https://github.com/SushmithaBA24/Sushmitha/assets/170924583/b6e335b7-4030-424d-b701-e5e59bb6ba22)
+
+
+![Screenshot 2024-07-08 192937](https://github.com/SushmithaBA24/Sushmitha/assets/170924583/82f88690-6950-4745-a92a-403d9e40bbdd)
 
