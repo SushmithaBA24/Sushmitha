@@ -1,5 +1,5 @@
-Airline-Database-Analysis-using-SQL
-Project Description :
+Airline Database Capstone Project: 
+
 In my Airline DB Capstone Project, I led the structuring and querying of crucial data on airline operations, passenger information, and flight schedules using SQL. I designed a robust database architecture to efficiently manage large datasets, ensuring data integrity and security. By developing optimized SQL queries, I extracted and analyzed critical information, enhancing operational efficiency and decision-making. Meticulous database management, including performance tuning and secure access controls, was essential to the project's success. This approach provided valuable insights, optimized flight schedules, and improved the overall passenger experience, laying a strong foundation for future data-driven strategies within the airline industry.
 This project involves performing complex SQL queries on an Airline database to derive meaningful insights. The queries cover various aspects of airline operations, including booking information, passenger details, flight schedules, and aircraft information. The project showcases the use of advanced SQL techniques such as Joins, Subqueries, Common table expressions (CTEs), Window functions, and date formatting.
 
