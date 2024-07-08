@@ -13,4 +13,5 @@ aircrafts - Information about aircrafts including aircraft code and model.
 airports - Information about airports including airport code and timezone.
 seats - Details about seat availability and fare conditions on various aircraft.
 Database ER Diagram :
-image
+[image](https://github.com/SushmithaBA24/Sushmitha/assets/170924583/b6e335b7-4030-424d-b701-e5e59bb6ba22)
+
